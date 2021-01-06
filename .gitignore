@@ -3,3 +3,4 @@ miscc/*.pyc
 .DS_Store
 .idea/
 .ipynb_checkpoints
+data/
